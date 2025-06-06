@@ -152,7 +152,7 @@ The public key, and optionally a trust chain, used to validate the signature on 
 
 ## Credential Endpoint
 
-* The `JWT` proof type MUST be supported.
+* The `JWT` or `attestation` proof type MUST be supported.
 
 ## Server Metadata
 
